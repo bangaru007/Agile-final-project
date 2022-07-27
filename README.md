@@ -1,2 +1,3 @@
-# lab-agile-planning
+# AGILE FINAL PROJECT
+
 This file contains agile planning
